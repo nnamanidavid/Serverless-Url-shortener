@@ -1,0 +1,6 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+build/
+terraform.tfvarsitems.json
+batch.json

@@ -1,0 +1,81 @@
+{
+    "Items": [
+        {
+            "shortCode": {
+                "S": "demo-link"
+            },
+            "longUrl": {
+                "S": "https://example.com/page"
+            },
+            "createdAt": {
+                "S": "2026-10-08T11:40:59.586Z"
+            }
+        },
+        {
+            "longUrl": {
+                "S": "https://example.com"
+            },
+            "shortCode": {
+                "S": "my-link"
+            },
+            "createdAt": {
+                "S": "2026-10-08T11:29:26.424Z"
+            }
+        },
+        {
+            "shortCode": {
+                "S": "8ib15v3"
+            },
+            "longUrl": {
+                "S": "https://example.com/page"
+            },
+            "createdAt": {
+                "S": "2026-10-08T11:31:36.218Z"
+            }
+        },
+        {
+            "shortCode": {
+                "S": "5n5v9fl"
+            },
+            "longUrl": {
+                "S": "https://example.com/page"
+            },
+            "createdAt": {
+                "S": "2026-10-08T11:28:39.445Z"
+            }
+        },
+        {
+            "shortCode": {
+                "S": "c2ljycm"
+            },
+            "longUrl": {
+                "S": "https://example.com/other"
+            },
+            "createdAt": {
+                "S": "2026-10-12T11:49:59.112Z"
+            }
+        },
+        {
+            "shortCode": {
+                "S": "o2kod17"
+            },
+            "longUrl": {
+                "S": "https://example.com/page"
+            },
+            "createdAt": {
+                "S": "2026-10-12T10:43:38.266Z"
+            }
+        },
+        {
+            "shortCode": {
+                "S": "test1"
+            },
+            "longUrl": {
+                "S": "https://example.com"
+            }
+        }
+    ],
+    "Count": 7,
+    "ScannedCount": 7,
+    "ConsumedCapacity": null
+}
